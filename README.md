@@ -8,7 +8,7 @@ SpringBoot Application to store user details
 ### Usage
 
 - Run the application and go on http://localhost:8080/
-- Use the following urls to invoke controllers methods and see the interactions with the database:
+- Use the following urls to invoke controllers methods and see the interactions with the database:-
   
   * URL: /api/user`
 	Method Type:Post
